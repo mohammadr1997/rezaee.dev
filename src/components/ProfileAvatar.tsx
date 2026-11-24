@@ -12,7 +12,10 @@ export function ProfileAvatar() {
       alt={alt}
       width={600}
       height={600}
-      decoding="async"
+      
+        fetchPriority="high"
+  decoding="async"
+  loading='lazy'
       style={{
         display: 'block',
         width: '100%',

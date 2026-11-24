@@ -9,7 +9,7 @@ export function Skills() {
       <SectionHeading
         id="skills-title"
         title="مهارت‌ها و تکنولوژی‌ها"
-        intro="ابزارها و فناوری‌هایی که برای ساخت وب‌سایت شما به کار می‌گیرم."
+        intro="ابزارها و فناوری‌هایی که برای ساخت وب‌سایت شما به کار می‌گیرم"
       />
 
       <Box component="div" role="list">
