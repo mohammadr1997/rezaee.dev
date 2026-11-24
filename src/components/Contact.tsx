@@ -78,7 +78,7 @@ export function Contact() {
       <SectionHeading
         id="contact-title"
         dark
-        title="تماس با من"
+        title="تماس "
         intro="ایده‌تان را بگویید؛ از همین‌جا شروع می‌کنیم. با یک تماس یا یک ایمیل می‌توانید با من در ارتباط باشید."
       />
       <Box

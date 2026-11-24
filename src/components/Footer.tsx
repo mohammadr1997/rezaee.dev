@@ -30,7 +30,7 @@ export function Footer() {
           <Box component="nav" aria-label="لینک‌های فوتر">
             <Box component="ul" sx={{ m: 0, p: 0, listStyle: 'none', display: 'flex', gap: 1,flexDirection:{xs:'column',md:'row'},flexWrap:'wrap' }}>
               {siteConfig.nav.map((item) => (
-                <Box component={'li'} sx={{textAlign:{xs:'left'},width:{xs:'100%'},cursor:'pointer'}} key={item.href}>
+                <Box component={'li'} sx={{textAlign:{xs:'left'},width:{xs:'100%',md:'45%'},cursor:'pointer'}} key={item.href}>
                   <Box  component="a" href={item.href} sx={linkSx}>
                     {item.label}
                   </Box>
