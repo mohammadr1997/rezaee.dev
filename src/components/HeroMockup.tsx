@@ -1,7 +1,7 @@
 import { Box } from '@mui/material';
 import { keyframes } from '@emotion/react';
 import { colors } from '../theme';
-import { siteConfig } from '../data/siteConfig';
+
 import { ProfileAvatar } from './ProfileAvatar';
 
 const appear = keyframes`
