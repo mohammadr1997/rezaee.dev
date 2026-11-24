@@ -13,7 +13,7 @@ export const siteConfig = {
 
   /** فایل تصویر را در public/images/profile.jpg جایگزین کنید. */
   profile: {
-    src: '../images/profile.png',
+    src: '../images/profile.webp',
     alt: 'admin-pic',
     /** برای تنظیم بخش قابل‌نمایش عکس داخل دایره، مثلاً 'center top' یا '50% 20%' */
     objectPosition: 'center 20%',
